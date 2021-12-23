@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/debug_logger/__init__.py
+src/debug_logger/logger.py
+src/debug_logger_hiro_liu.egg-info/PKG-INFO
+src/debug_logger_hiro_liu.egg-info/SOURCES.txt
+src/debug_logger_hiro_liu.egg-info/dependency_links.txt
+src/debug_logger_hiro_liu.egg-info/top_level.txt
